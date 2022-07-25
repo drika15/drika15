@@ -1,4 +1,4 @@
-#Sobre mim
+# Sobre mim
 - 👋 Olá meu nome é @drika15
 - :+1:Meu email de contato é andrieli.kapczuk@escola.pr.gov.br
 - 👀 Eu estou enteressado em aprender a programar novas linguagens
